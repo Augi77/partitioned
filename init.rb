@@ -1,1 +1,2 @@
+require 'pippo'
 require 'dummy'
